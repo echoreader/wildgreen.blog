@@ -5,8 +5,8 @@ pubDate: 2025-11-28
 category:
   - travel
 tags:
-  - environment 
-  - sustainability 
+  - adventures
+  - living
 author: Echo Reader
 ---
 

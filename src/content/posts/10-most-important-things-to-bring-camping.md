@@ -3,10 +3,10 @@ title: 10 most important things to bring camping
 description: "Ready to hit the great outdoors? Check out our list of the 10 must-have items for camping to ensure a smooth and enjoyable experience in nature!"
 pubDate: 2025-12-02
 category:
-  - travel
+  - hiking-camping
 tags:
-  - traveling 
-  - sustainability 
+  - great-outdoors
+  - camping 
 author: Echo Reader
 ---
 

@@ -5,8 +5,8 @@ pubDate: 2025-10-18
 category:
   - travel
 tags:
-  - travel 
-  - transportation 
+  - cost-guide
+  - accommodation
 author: Echo Reader
 ---
 

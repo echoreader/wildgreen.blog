@@ -5,8 +5,8 @@ pubDate: 2025-10-24
 category:
   - travel
 tags:
-  - travel 
-  - transportation 
+  - curiosity
+  - growth
 author: Echo Reader
 ---
 

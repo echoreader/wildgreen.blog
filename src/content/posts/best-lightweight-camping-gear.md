@@ -3,10 +3,10 @@ title: Best Lightweight Camping Gear
 description: "Ready to lighten your load? Check out our guide to the best lightweight camping gear that combines comfort and convenience for your next adventure!"
 pubDate: 2025-11-12
 category:
-  - electricity
+  - hiking-camping
 tags:
-  - environment 
-  - sustainability 
+  - adventure 
+  - camping-gear 
 author: Echo Reader
 ---
 

@@ -3,10 +3,10 @@ title: How to Reduce Garbage at Home
 description: "Ready to cut down on waste? Explore easy strategies to reduce garbage at home and make a positive impact on the environment today!"
 pubDate: 2025-11-18
 category:
-  - electricity
+  - business-industrial
 tags:
   - environment 
-  - sustainability 
+  - strategies 
 author: Echo Reader
 ---
 

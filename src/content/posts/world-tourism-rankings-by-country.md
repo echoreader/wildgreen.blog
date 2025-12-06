@@ -3,10 +3,10 @@ title: World Tourism Rankings by Country
 description: "Discover the top-ranked travel destinations worldwide! See which countries lead in tourism, revenue & sustainability. Plan your next trip now! 🌍✈️"
 pubDate: 2025-11-06
 category:
-  - electricity
+  - travel
 tags:
-  - environment 
-  - sustainability 
+  - travel-destinations
+  - sustainability
 author: Echo Reader
 ---
 

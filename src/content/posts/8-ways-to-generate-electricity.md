@@ -3,10 +3,10 @@ title: 8 Ways to Generate Electricity
 description: "Discover 8 innovative ways to generate electricity! From solar power to wind energy, explore sustainable options that can power your life and save money."
 pubDate: 2025-10-12
 category:
-  - electricity
+  - business-industrial
 tags:
-  - environment 
-  - sustainability 
+  - solar-power
+  - wind-energy
 author: Echo Reader
 ---
 

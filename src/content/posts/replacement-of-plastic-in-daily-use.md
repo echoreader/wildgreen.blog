@@ -3,10 +3,10 @@ title: Replacement of Plastic in Daily use
 description: "Tired of plastic? Dive into our guide for easy swaps and sustainable choices that make a difference in your everyday routine. Join the movement today!"
 pubDate: 2025-11-24
 category:
-  - sustainability
+  - green-living
 tags:
-  - reusable-products 
-  - zero-waste 
+  - plastic
+  - guide
 author: Echo Reader
 ---
 
