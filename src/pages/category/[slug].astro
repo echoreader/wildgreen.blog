@@ -42,7 +42,7 @@ import Layout from "@layouts/Layout.astro";
 const type = "categoryList";
 const isDev = import.meta.env.DEV;
 const base = isDev ? "http://localhost:4321" : Astro.site?.href ?? "https://wildgreen.blog";
-const resolve = (path) => new URL(path, base).href;
+const resolve = (path: string) => new URL(path, base).href;
 ---
 
 <Layout
