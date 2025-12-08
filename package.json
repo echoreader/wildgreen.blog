@@ -14,6 +14,7 @@
     "generate-sitemap-post": "node scripts/generate-sitemap-post.js",
     "generate-sitemap-page": "node scripts/generate-sitemap-page.js",
     "generate-sitemap-index": "node scripts/generate-sitemap-index.js",
+    "generate-sitemap-category": "node scripts/generate-sitemap-category.js",
     "generate-sitemap": "npm run generate-sitemap-post && npm run generate-sitemap-page && npm run generate-sitemap-index"
   },
   "dependencies": {

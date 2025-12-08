@@ -2,12 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
-    <loc>https://wildgreen.blog/sitemap-post.xml</loc>
-    <lastmod>2025-10-27T13:47:13.954Z</lastmod>
+    <loc>https://wildgreen.blog/sitemap-page.xml</loc>
+    <lastmod>2025-12-08T02:11:14.343Z</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>https://wildgreen.blog/sitemap-page.xml</loc>
-    <lastmod>2025-10-27T13:47:13.954Z</lastmod>
+    <loc>https://wildgreen.blog/sitemap-post.xml</loc>
+    <lastmod>2025-12-08T02:11:14.344Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://wildgreen.blog/sitemap-category.xml</loc>
+    <lastmod>2025-12-08T02:11:14.344Z</lastmod>
   </sitemap>
 </sitemapindex>

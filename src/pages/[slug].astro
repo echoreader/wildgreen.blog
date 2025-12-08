@@ -78,10 +78,32 @@ const faqs: Faq[] = extractFaqs(html);
 
   <main>
     <nav class="text-sm mt-4 mb-2 text-gray-600 dark:text-gray-400">
-      <span>Home</span> {" > "}
-      <span>{post.data.category}</span> {" > "}
-      <span class="text-gray-800 dark:text-gray-200">{post.data.title}</span>
-    </nav>
+  <a href="/" class="hover:underline">Home</a>
+  {" > "}
+
+  {post.data.category && (
+    <a
+      href={`/category/${
+        Array.isArray(post.data.category)
+          ? post.data.category[0]
+          : post.data.category
+      }/`}
+      class="hover:underline text-gray-800 dark:text-gray-200"
+    >
+      {
+        Array.isArray(post.data.category)
+          ? post.data.category[0]
+          : post.data.category
+      }
+    </a>
+  )}
+
+  {" > "}
+  <span class="text-gray-800 dark:text-gray-200">
+    {post.data.title}
+  </span>
+</nav>
+
 
     <article class="prose prose-lg max-w-none mx-auto dark:prose-invert pt-12 pb-8">
       <div class="prose-h1 text-left">

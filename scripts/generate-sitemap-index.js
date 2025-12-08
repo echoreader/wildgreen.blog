@@ -5,8 +5,9 @@ const SITE_URL = "https://wildgreen.blog";
 const OUTPUT_PATH = path.resolve("public/sitemap-index.xml");
 
 const sitemaps = [
-  "sitemap-post.xml",
   "sitemap-page.xml",
+  "sitemap-post.xml",
+  "sitemap-category.xml",
 ];
 
 const urls = sitemaps.map(file => {

@@ -1,0 +1,86 @@
+---
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+
+  // ✅ Ambil kategori unik & normalisasi jadi string
+  const categories = [
+    ...new Set(
+      posts
+        .map((post) => {
+          const cat = post.data.category;
+
+          if (Array.isArray(cat)) return cat[0];        // ambil elemen pertama
+          if (typeof cat === "object") return Object.values(cat)[0]; // ambil value
+          return cat;                                   // sudah string
+        })
+        .filter(Boolean)
+    ),
+  ];
+
+  return categories.map((category) => ({
+    params: { slug: String(category) }, // ✅ pastikan string
+  }));
+}
+
+const { slug } = Astro.params;
+
+const allPosts = await getCollection("posts");
+
+// ✅ Filter kategori dengan normalisasi
+const posts = allPosts.filter((post) => {
+  const cat = post.data.category;
+
+  if (Array.isArray(cat)) return cat[0] === slug;
+  if (typeof cat === "object") return Object.values(cat)[0] === slug;
+  return cat === slug;
+});
+
+// Layout logic
+import Layout from "@layouts/Layout.astro";
+const type = "categoryList";
+const isDev = import.meta.env.DEV;
+const base = isDev ? "http://localhost:4321" : Astro.site?.href ?? "https://wildgreen.blog";
+const resolve = (path) => new URL(path, base).href;
+---
+
+<Layout
+  title={`Category: ${slug}`}
+  description={`Articles under ${slug}`}
+  type={type}
+  url={resolve(Astro.url.pathname)}
+  itemList={posts.map((post) => ({
+    title: post.data.title,
+    url: resolve(`/${post.slug || post.id}/`)
+  }))}
+>
+  <section class="flex flex-col gap-6 mb-12 pt-12">
+    <h1 class="text-2xl font-bold mb-6">Category: {slug}</h1>
+
+    {posts.map((post) => (
+      <article class="rounded-lg border border-solid border-gray-300 p-4 shadow-sm">
+        <h2 class="text-3xl font-semibold mb-1">
+          <a
+            href={resolve(`/${post.slug || post.id}/`)}
+            class="no-underline text-blue-700 hover:text-blue-500"
+          >
+            {post.data.title}
+          </a>
+        </h2>
+
+        <p class="text-sm text-gray-500 mb-2">
+          {new Date(post.data.pubDate).toLocaleDateString(undefined, {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+          })}
+        </p>
+
+        {post.data.description && (
+          <p class="text-sm text-gray-700">{post.data.description}</p>
+        )}
+      </article>
+    ))}
+  </section>
+</Layout>
