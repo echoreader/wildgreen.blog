@@ -108,6 +108,8 @@ The Serpentine lake boat rentals were another win £12 for 30 minutes of pedal b
 
 **Budget reality:** The zoo is pricey (around £30+ per adult), but if you book online in advance, you can save about £5 per ticket.
 
+> Love exploring new destinations? Check out [World Tourism Rankings by Country](https://wildgreen.blog/world-tourism-rankings-by-country/) to discover top travel hotspots around the globe.
+
 7\. Interactive Wonder: Hamleys & Covent Garden Street Magic 🎭
 ---------------------------------------------------------------
 

@@ -84,6 +84,8 @@ The food industry contributes **one-third of global greenhouse gas emissions**. 
 
 📌 **Did You Know?** If **food waste were a country**, it would be the **third-largest emitter of greenhouse gases**, behind the US and China!
 
+> Curious about going even greener? Read [What Does It Mean to Live a Sustainable Lifestyle?](https://wildgreen.blog/what-does-it-mean-to-live-a-sustainable-lifestyle/) for deeper insights into eco‑friendly living.
+
 **🏡 4. Sustainable Homes: Creating an Eco-Friendly Living Space**
 ------------------------------------------------------------------
 

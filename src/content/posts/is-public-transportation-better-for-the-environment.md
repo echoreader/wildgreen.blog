@@ -39,12 +39,9 @@ Public transit wins **hands down** in terms of emissions per person. It also use
 The difference in air quality is something I _actually feel_ when visiting cities with good transit systems. When fewer cars are on the road, there's less:
 
 *   Nitrogen dioxide (NO₂)
-    
 *   Carbon monoxide (CO)
-    
 *   Particulate matter (PM2.5)
     
-
 Cities like **Seoul, Bogotá, and Vienna** have seen significant drops in air pollution thanks to investments in public transportation. It’s not just good for the planet it’s good for our lungs.
 
 ⚡ Energy Efficiency & Sustainable Transit
@@ -53,11 +50,8 @@ Cities like **Seoul, Bogotá, and Vienna** have seen significant drops in air po
 I’ve been fascinated by how efficient modern transit can be. For example:
 
 *   **Electric buses** reduce emissions by up to 80%
-    
 *   **Hybrid trains** are gaining ground in Europe and Japan
-    
-*   **Hydrogen fuel** is being tested in places like California and Germany
-    
+*   **Hydrogen fuel** is being tested in places like California and Germany 
 
 Transit agencies are finally embracing **green technology**. Some cities even power their rail systems using **renewable energy**. That’s a serious upgrade from old diesel fleets.
 
@@ -69,11 +63,8 @@ Here’s something I didn’t expect: **public transit doesn’t just reduce emi
 Transit-oriented development (TOD) encourages:
 
 *   Walkable neighborhoods 🏘️
-    
 *   Less need for parking lots or highways
-    
 *   Smaller carbon footprints per household
-    
 
 Without decent transit, we end up with **urban sprawl**, which means more deforestation, more emissions, and more car dependence. It’s a cycle we _can_ break.
 
@@ -83,20 +74,14 @@ Without decent transit, we end up with **urban sprawl**, which means more defore
 Switching to public transportation is **one of the most effective actions** individuals can take to cut emissions. It directly supports climate goals like:
 
 *   **Net-zero emissions by 2050**
-    
 *   **Paris Agreement targets**
-    
 *   **Cleaner air commitments in major U.S. cities**
-    
 
 Plus, governments are stepping up with incentives like:
 
 *   Pre-tax commuter benefits
-    
-*   Federal funding for rail and BRT systems
-    
-*   Investments in green infrastructure
-    
+*   Federal funding for rail and BRT systems  
+*   Investments in green infrastructure  
 
 I take advantage of these programs whenever I can it’s one of the few ways we can vote with our habits _and_ our dollars.
 
@@ -106,13 +91,12 @@ I take advantage of these programs whenever I can it’s one of the few ways we 
 I won’t pretend everything’s perfect. In some places, public transit can be:
 
 *   **Outdated** (hello, 1970s buses!)
-    
-*   **Unreliable** or **infrequent**
-    
+*   **Unreliable** or **infrequent**  
 *   **Inaccessible** for rural communities or those with disabilities
     
-
 Funding is a constant struggle too. We need more investment, more vision, and more community support to make transit a top-tier option for everyone.
+
+> Looking for more ways to reduce your carbon footprint? Explore [Ways to Be Sustainable in Everyday Life](https://wildgreen.blog/ways-to-be-sustainable-in-everyday-life/) for practical eco‑friendly habits.
 
 🌎 Cities That Are Getting It Right
 -----------------------------------
@@ -120,13 +104,9 @@ Funding is a constant struggle too. We need more investment, more vision, and mo
 Here are a few cities that inspired me:
 
 *   **Curitiba, Brazil**: Their bus rapid transit system became a global model.
-    
-*   **Stockholm, Sweden**: Over 75% of commuters use public or active transport.
-    
-*   **Portland, Oregon**: Embraces light rail and bike-transit integration.
-    
-*   **Singapore**: Ultra-efficient MRT system and strict car ownership laws.
-    
+*   **Stockholm, Sweden**: Over 75% of commuters use public or active transport. 
+*   **Portland, Oregon**: Embraces light rail and bike-transit integration. 
+*   **Singapore**: Ultra-efficient MRT system and strict car ownership laws. 
 
 These cities _prove_ that when transit is prioritized, _everyone benefits_ not just the environment.
 
@@ -136,11 +116,8 @@ These cities _prove_ that when transit is prioritized, _everyone benefits_ not 
 Public transportation is evolving fast:
 
 *   **Autonomous electric buses** are already being tested
-    
 *   **AI routing** helps reduce delays and optimize energy use
-    
-*   **Mobility as a Service (MaaS)** apps are integrating trains, buses, bikes, and ride-shares in one platform
-    
+*   **Mobility as a Service (MaaS)** apps are integrating trains, buses, bikes, and ride-shares in one platform 
 
 It’s not just about getting around it’s about building smarter cities with **less congestion**, **lower emissions**, and **more livable communities**.
 
@@ -152,11 +129,8 @@ It’s not just about getting around it’s about building smarter cities with *
 But it’s not just about swapping your car for a bus once a month. It’s about pushing for systems that _work for everyone_. When we:
 
 *   Ride transit more often
-    
-*   Vote for better infrastructure
-    
-*   Support eco-innovation in our communities
-    
+*   Vote for better infrastructure 
+*   Support eco-innovation in our communities  
 
 We’re not just reducing emissions we’re _shaping the future_ of our planet.
 

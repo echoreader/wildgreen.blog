@@ -99,6 +99,8 @@ My rules:
 
 **Library of Things** in my city lends tools, camping gear, even sewing machines—zero ownership.
 
+> Want actionable steps to live more sustainably? Read [Ways to Be Sustainable in Everyday Life](https://wildgreen.blog/ways-to-be-sustainable-in-everyday-life/) for easy habits you can start today.
+
 ## Step 6: Water Every Drop Counts
 
 U.S. households average 300 gallons/day. My cuts:

@@ -89,6 +89,8 @@ I went from “composting is too hard” to turning 600 lbs of food scraps into 
 
 I keep a “bulk kit” in my car: jars, cloth bags, and a Sharpie. Takes 30 seconds at checkout.
 
+> Looking for more eco‑friendly swaps? Check out [Replacement of Plastic in Daily Use](https://wildgreen.blog/replacement-of-plastic-in-daily-use/) for simple alternatives that make a big difference.
+
 ## Step 6: Tackle the Bathroom and Laundry Room (The Sneaky Trash Makers)
 
 - Switched to **shampoo bars** (HiBar or Ethique) → zero plastic bottles  

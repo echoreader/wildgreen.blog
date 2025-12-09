@@ -109,6 +109,8 @@ My **minimalist camping** wardrobe (worn + packed):
 
 *Wait 9.2 lbs?* I carry a bear canister (2.7 lbs) in grizzly country. Swap for a food bag in the East.
 
+> Preparing for your next trip? Explore [10 Most Important Things to Bring Camping](https://wildgreen.blog/10-most-important-things-to-bring-camping/) to make sure you’re fully equipped.
+
 ## Gear Review: What I’d Change After 800 Miles
 
 - **Skip the chair** sit on your pad.  

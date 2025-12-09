@@ -72,6 +72,8 @@ Let's make this practical. Here is a classic **10-day itinerary** and what the *
 
 **Itinerary:** Tokyo (4 nights) -> Kyoto (3 nights) -> Osaka (2 nights) -> Fly out of Osaka (KIX)
 
+> Want to save more on international travel? Read [Best Travel Cards for Good Credit](https://wildgreen.blog/best-travel-cards-for-good-credit/) to earn rewards and reduce trip expenses.
+
 ### **Japan Travel Cost: Budget, Mid-Range, and Luxury**
 
 | Expense Category | Budget Traveler | Mid-Range Traveler | Luxury Trip |

@@ -93,6 +93,8 @@ Stir 1 scoop into oatmeal with banana slices *low-sugar protein* without sweetne
 
 Blend. **30g protein, 5g sugar max.**
 
+> Interested in cleaner, greener choices? You might enjoy [Ways to Be Sustainable in Everyday Life](https://wildgreen.blog/ways-to-be-sustainable-in-everyday-life/) for more mindful living ideas.
+
 ## Reading Labels Like a Pro
 
 I flip every tub. Avoid these red flags:

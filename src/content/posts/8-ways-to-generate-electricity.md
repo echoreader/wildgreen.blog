@@ -69,6 +69,8 @@ While still a nascent technology, the potential of **Ocean Energy** is immense. 
 
 This field is the frontier of **renewable energy**. The energy density is high, but the engineering challenges of building durable equipment in a harsh, corrosive saltwater environment are significant.
 
+> Interested in more eco‑focused topics? Explore [Is Public Transportation Better for the Environment?](https://wildgreen.blog/is-public-transportation-better-for-the-environment/) for another angle on sustainability.
+
 ### At a Glance: How We Generate Electricity
 
 | Method | Primary Energy Source | Key Mechanism | Renewable? |

@@ -127,6 +127,8 @@ Instead of plastic bags, I take
 
 They are light and easy to keep in my car or backpack.
 
+> Want to cut down even more waste? Explore [How to Reduce Garbage at Home](https://wildgreen.blog/how-to-reduce-garbage-at-home/) for practical habits that support a plastic‑free lifestyle.
+
 ### **Simple Travel Swaps**
 
 When I travel, I pack

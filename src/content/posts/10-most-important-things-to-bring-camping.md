@@ -71,6 +71,8 @@ I rely on redundant systems for navigation and self-care:
 * **Fire Starter:** I always carry two reliable **Fire Starter** methods often a waterproof lighter and a fire steel. Fire is critical for warmth, signaling, water purification, and cooking. *I always ensure I have dry tinder and a backup fire source.*
 * **Multitool:** A reliable **Multitool** with a knife blade, pliers, and a can opener is one of the most versatile pieces of **Must-Bring Camping Gear**. From cutting rope to repairing a broken backpack strap, its utility is unmatched.
 
+> Planning your next outdoor adventure? Check out [Best Lightweight Camping Gear](https://wildgreen.blog/best-lightweight-camping-gear/) for essentials that make your trip easier and more enjoyable.
+
 ## 4. Item #10 and the Importance of **Appropriate Clothing**
 
 My final, and arguably broadest, essential item is **Appropriate Clothing**. I follow the "layering system" and always pack rain gear, regardless of the forecast.

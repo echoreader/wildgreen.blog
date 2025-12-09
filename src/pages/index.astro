@@ -1,5 +1,6 @@
 ---
 import Layout from "@layouts/Layout.astro";
+import { siteUrl } from '../utils/site.js';
 
 const type = "home";
 ---
@@ -12,8 +13,66 @@ const type = "home";
   <section class="py-10 text-center max-w-2xl mx-auto">
     <h1 class="text-4xl font-bold mb-4">Travel Light, Live Green — Conscious Journeys Begin Here</h1>
     <p>WildGreen blends wanderlust with sustainability. Discover eco-friendly travel guides, green living tips, and climate-aware insights curated for explorers who care deeply about the planet and their path.</p>
-    <a href="/blog/" class="mt-6 inline-block bg-blue-600 text-white px-4 py-2 rounded">
-      Explore the Blog →
-    </a>
   </section>
+
+  <!-- CATEGORY GRID -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+
+    <!-- Travel -->
+    <article class="rounded-lg border border-solid border-gray-300 p-4 shadow-sm hover:shadow-md transition bg-white space-y-2">
+      <h3 class="text-xl font-semibold text-gray-900 leading-tight">
+        <a
+          href={`${siteUrl}/category/travel/`}
+          class="no-underline text-blue-700 hover:text-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400"
+        >
+          Travel
+        </a>
+      </h3>
+      <p class="text-sm text-gray-600 leading-relaxed">
+        Guides, tips, and destination insights for travelers seeking new experiences.
+      </p>
+    </article>
+
+    <!-- Green Living -->
+    <article class="rounded-lg border border-solid border-gray-300 p-4 shadow-sm hover:shadow-md transition bg-white space-y-2">
+      <h3 class="text-xl font-semibold text-gray-900 leading-tight">
+        <a
+          href={`${siteUrl}/category/green-living/`}
+          class="no-underline text-blue-700 hover:text-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400"
+        >
+          Green Living
+        </a>
+      </h3>
+      <p class="text-sm text-gray-600 leading-relaxed">
+        Sustainable lifestyle tips, eco-friendly habits, and practical ways to reduce your footprint.
+      </p>
+    </article>
+
+    <!-- Hiking & Camping -->
+    <article class="rounded-lg border border-solid border-gray-300 p-4 shadow-sm hover:shadow-md transition bg-white space-y-2">
+      <h3 class="text-xl font-semibold text-gray-900 leading-tight">
+        <a
+          href={`${siteUrl}/category/hiking-camping/`}
+          class="no-underline text-blue-700 hover:text-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400"
+        >
+          Hiking & Camping
+        </a>
+      </h3>
+      <p class="text-sm text-gray-600 leading-relaxed">
+        Outdoor skills, gear tips, and adventure guides for hikers and campers.
+      </p>
+    </article>
+
+  </div>
+
+  <!-- ✅ BUTTON DI BAWAH GRID, DI TENGAH -->
+  <div class="flex justify-center mt-10 mb-16">
+    <a 
+      href={`/blog/`} 
+      class="px-6 py-3 border border-gray-300 rounded-lg font-semibold bg-white hover:bg-gray-50 shadow-sm transition"
+    >
+      Explore All Posts →
+    </a>
+  </div>
+
 </Layout>
